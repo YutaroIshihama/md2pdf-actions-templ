@@ -1,0 +1,2 @@
+# md2pdf-actions-templ
+論文執筆のmd2typ2pdfワークフローを共通化するためのリポジトリ
